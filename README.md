@@ -21,15 +21,7 @@ Multinomial Naive Bayes
 The Multinomial Naive Bayes model was selected because it performs exceptionally well on text classification problems and is computationally efficient.
 
 <h2>🛠️ Tech Stack</h2>
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-NLTK
-Scikit-Learn
-WordCloud
-Docker
+Python, Pandas, NumPy, Matplotlib, Seaborn, NLTK, Scikit-Learn, WordCloud, Docker
 
 <h2>📈 Exploratory Data Analysis (EDA)</h2>
 Dataset Distribution
@@ -69,7 +61,7 @@ Observation<br>
 
 Frequently occurring spam words include:<br>
 
-call,free,txt,text,mobile,claim,prize,service,urgent
+call, free, txt, text, mobile, claim, prize, service, urgent
 
 These words are commonly associated with promotional, scam, or marketing messages.<br>
 
@@ -81,4 +73,4 @@ Observation<br>
 
 Spam messages prominently contain words such as:<br>
 
-free,claim,prize,mobile,urgent,service,contact
+free, claim, prize, mobile, urgent, service, contact
