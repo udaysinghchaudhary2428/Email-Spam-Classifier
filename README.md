@@ -1,4 +1,4 @@
-📧 Email Spam Detection System
+#📧 Email Spam Detection System
 
 A Machine Learning-powered Email Spam Detection System that classifies incoming messages as Spam or Ham (Not Spam) using the Multinomial Naive Bayes algorithm. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment support through Docker.
 
