@@ -1,4 +1,4 @@
-<h1>📧 Email Spam Detection System</h1>h1>
+<h1>📧 Email Spam Detection System</h1>
 
 A Machine Learning-powered Email Spam Detection System that classifies incoming messages as Spam or Ham (Not Spam) using the Multinomial Naive Bayes algorithm. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment support through Docker.
 
@@ -20,7 +20,7 @@ Multinomial Naive Bayes
 
 The Multinomial Naive Bayes model was selected because it performs exceptionally well on text classification problems and is computationally efficient.
 
-<h2>🛠️ Tech Stack</h2>h2>
+<h2>🛠️ Tech Stack</h2>
 Python
 Pandas
 NumPy
@@ -62,18 +62,18 @@ time
 These words generally represent normal conversational communication.
 
 Ham Word Cloud
-![Ham Word Cloud](assest/Ham_cloud.png)
+![Ham Word Cloud](assest/Ham_cloud.png)<br>
 
 Observation
 
-The ham messages contain words related to daily conversations, greetings, plans, and personal communication.
+The ham messages contain words related to daily conversations, greetings, plans, and personal communication.<br>
 
 Top 30 Most Frequent Spam Words
 ![Top Spam Words](assest/Spam_bar.png)
 
 Observation
 
-Frequently occurring spam words include:
+Frequently occurring spam words include:<br>
 
 call
 free
