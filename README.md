@@ -20,7 +20,7 @@ Multinomial Naive Bayes
 
 The Multinomial Naive Bayes model was selected because it performs exceptionally well on text classification problems and is computationally efficient.
 
-🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>h2>
 Python
 Pandas
 NumPy
@@ -31,7 +31,7 @@ Scikit-Learn
 WordCloud
 Docker
 
-📈 Exploratory Data Analysis (EDA)
+<h2>📈 Exploratory Data Analysis (EDA)</h2>
 Dataset Distribution
 
 The dataset is slightly imbalanced with a significantly larger number of legitimate (ham) messages than spam messages.
