@@ -52,8 +52,8 @@ u, go, get, gt, lt, come, know, like, call, time
 
 These words generally represent normal conversational communication.
 
-</h3>Ham Word Cloud</h3><br>
-![Ham Word Cloud](assest/Ham_cloud.png)<br>
+</h3>Ham Word Cloud</h3>
+![Ham Word Cloud](assest/Ham_cloud.png)
 
 Observation
 
