@@ -41,63 +41,40 @@ The dataset is slightly imbalanced with a significantly larger number of legitim
 Observation
 Ham messages: 87.37%<br>
 Spam messages: 12.63%<br>
-Top 30 Most Frequent Ham Words<br>
+<h3>Top 30 Most Frequent Ham Words</h3><br>
 ![Top Ham Words](assest/Ham_bar.png)
 
 Observation<br>
 
 Common words in legitimate emails include:<br>
 
-u
-go
-get
-gt
-lt
-come
-know
-like
-call
-time
+u, go, get, gt, lt, come, know, like, call, time
 
 These words generally represent normal conversational communication.
 
-Ham Word Cloud
+</h3>Ham Word Cloud</h3><br>
 ![Ham Word Cloud](assest/Ham_cloud.png)<br>
 
 Observation
 
 The ham messages contain words related to daily conversations, greetings, plans, and personal communication.<br>
 
-Top 30 Most Frequent Spam Words
+<h3>Top 30 Most Frequent Spam Words</h3><br>
 ![Top Spam Words](assest/Spam_bar.png)<br>
 
 Observation<br>
 
 Frequently occurring spam words include:<br>
 
-call
-free
-txt
-text
-mobile
-claim
-prize
-service
-urgent
+call,free,txt,text,mobile,claim,prize,service,urgent
 
 These words are commonly associated with promotional, scam, or marketing messages.<br>
 
-Spam Word Cloud<br>
+<h3>Spam Word Cloud</h3><br>
 ![Spam Word Cloud](assest/Spam_cloud.png)<br>
 
 Observation<br>
 
 Spam messages prominently contain words such as:<br>
 
-free
-claim
-prize
-mobile
-urgent
-service
-contact
+free,claim,prize,mobile,urgent,service,contact
