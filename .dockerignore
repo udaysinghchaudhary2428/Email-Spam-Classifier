@@ -1,0 +1,17 @@
+venv/
+
+.gitignore
+
+assest/
+
+.ipynb_checkpoints/
+
+__pycache__/
+
+*.pyc 
+
+notebook/
+
+.git/
+
+.env
