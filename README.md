@@ -42,6 +42,7 @@ Observation
 Ham messages: 87.37%<br>
 Spam messages: 12.63%<br>
 <h3>Top 30 Most Frequent Ham Words</h3><br>
+
 ![Top Ham Words](assest/Ham_bar.png)
 
 Observation<br>
