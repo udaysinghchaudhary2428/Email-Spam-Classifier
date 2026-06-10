@@ -39,14 +39,14 @@ The dataset is slightly imbalanced with a significantly larger number of legitim
 ![Dataset Distribution](assest/data_imbalanced.png)
 
 Observation
-Ham messages: 87.37%
-Spam messages: 12.63%
-Top 30 Most Frequent Ham Words
+Ham messages: 87.37%<br>
+Spam messages: 12.63%<br>
+Top 30 Most Frequent Ham Words<br>
 ![Top Ham Words](assest/Ham_bar.png)
 
-Observation
+Observation<br>
 
-Common words in legitimate emails include:
+Common words in legitimate emails include:<br>
 
 u
 go
@@ -69,9 +69,9 @@ Observation
 The ham messages contain words related to daily conversations, greetings, plans, and personal communication.<br>
 
 Top 30 Most Frequent Spam Words
-![Top Spam Words](assest/Spam_bar.png)
+![Top Spam Words](assest/Spam_bar.png)<br>
 
-Observation
+Observation<br>
 
 Frequently occurring spam words include:<br>
 
@@ -85,14 +85,14 @@ prize
 service
 urgent
 
-These words are commonly associated with promotional, scam, or marketing messages.
+These words are commonly associated with promotional, scam, or marketing messages.<br>
 
-Spam Word Cloud
-![Spam Word Cloud](assest/Spam_cloud.png)
+Spam Word Cloud<br>
+![Spam Word Cloud](assest/Spam_cloud.png)<br>
 
-Observation
+Observation<br>
 
-Spam messages prominently contain words such as:
+Spam messages prominently contain words such as:<br>
 
 free
 claim
