@@ -2,7 +2,7 @@
 
 A Machine Learning-powered Email Spam Detection System that classifies incoming messages as Spam or Ham (Not Spam) using the Multinomial Naive Bayes algorithm. The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and deployment support through Docker.
 
-<h2>🚀 Features</h2>h2>
+<h2>🚀 Features</h2>
 Email/SMS spam classification
 Text preprocessing and cleaning
 Exploratory Data Analysis (EDA)
@@ -11,7 +11,7 @@ Word Cloud generation
 Multinomial Naive Bayes classifier
 Dockerized application
 High-performance prediction model
-<h2>📊 Model Performance</h2>h2
+<h2>📊 Model Performance</h2>
 Metric	Score
 Accuracy	98%
 Precision	99%
@@ -53,6 +53,7 @@ u, go, get, gt, lt, come, know, like, call, time
 These words generally represent normal conversational communication.
 
 </h3>Ham Word Cloud</h3>
+
 ![Ham Word Cloud](assest/Ham_cloud.png)
 
 Observation
@@ -60,6 +61,7 @@ Observation
 The ham messages contain words related to daily conversations, greetings, plans, and personal communication.<br>
 
 <h3>Top 30 Most Frequent Spam Words</h3><br>
+
 ![Top Spam Words](assest/Spam_bar.png)<br>
 
 Observation<br>
@@ -71,6 +73,7 @@ call,free,txt,text,mobile,claim,prize,service,urgent
 These words are commonly associated with promotional, scam, or marketing messages.<br>
 
 <h3>Spam Word Cloud</h3><br>
+
 ![Spam Word Cloud](assest/Spam_cloud.png)<br>
 
 Observation<br>
